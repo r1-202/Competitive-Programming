@@ -12,6 +12,7 @@ using namespace std;
 void solve_case();
 int main()
 {
+    //freopen("lucky.in", "r", stdin);
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(NULL);
